@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 12800,
+  "expoServerNgrokUrl": "https://rr-ugu.anonymous.helloworld.exp.direct",
+  "packagerNgrokUrl": "https://packager.rr-ugu.anonymous.helloworld.exp.direct",
+  "ngrokPid": 17088
+}
